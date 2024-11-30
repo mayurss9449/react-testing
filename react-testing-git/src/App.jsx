@@ -11,25 +11,9 @@ function App() {
       <div>
         <h1>Hello Mayur Shinde</h1>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde, quibusdam!</p>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, beatae doloribus, harum soluta et fugit natus placeat quo voluptatibus ipsa quam. Incidunt necessitatibus maxime numquam sit voluptates! Iste optio atque placeat natus, laboriosam eaque error sapiente maiores odit perferendis, neque dolore id iusto doloremque modi. Atque fuga, explicabo similique, quidem quos dolores, deleniti nobis velit excepturi nisi aspernatur exercitationem dolorum illo quae ipsam? Deserunt, corporis! Similique dolorum itaque nisi ad quasi, vero dignissimos veniam eius consequuntur quidem alias optio, iure molestias in minus atque non, minima illo assumenda! Fugiat, natus! Illum quo eum, accusantium animi eveniet aspernatur dicta quisquam incidunt.</p>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   )
 }
