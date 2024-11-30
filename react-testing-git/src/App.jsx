@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './Header'
+import Home from './Home'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
       </div>
       <Header />
       <p> jay   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias eaque quo asperiores esse animi, laboriosam sed temporibus cupiditate voluptatibus voluptate deleniti amet officiis quasi voluptas nihil nulla ratione exercitationem. Soluta, expedita rerum amet fugiat nesciunt quibusdam doloremque quidem dolor tempore doloribus ullam, dolorum corporis explicabo facilis. Tenetur possimus corporis laborum optio tempora pariatur alias numquam id explicabo minus eaque sequi fugiat odit, rem ad ratione similique unde quibusdam, perspiciatis distinctio? Veniam molestias nihil sequi facere recusandae minus cumque voluptates. Minus, illo eum? Aspernatur praesentium ratione architecto nisi impedit, enim accusamus quo ab exercitationem aperiam quasi expedita assumenda! Asperiores, reiciendis ea.</p>
+      <Home />
     </>
   )
 }
